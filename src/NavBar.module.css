@@ -1,0 +1,14 @@
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 500px;
+  justify-content: space-evenly;
+  height: 40px;
+  margin: 2% 0px;
+  padding: 1% 0px;
+}

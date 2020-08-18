@@ -1,0 +1,24 @@
+.abcd {
+  text-align: center;
+}
+.container {
+  margin-bottom: 30px;
+  background: rgb(255, 255, 255);
+  display: inline-block;
+}
+.apiheading {
+  font-weight: 700;
+  font-size: 56px;
+  margin: 0px;
+}
+.apimark {
+  color: rgb(72, 127, 90);
+  text-shadow: rgb(0, 0, 0) 1px 1px;
+  background: rgb(255, 255, 255);
+}
+.desp {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0;
+  text-align: center;
+}
